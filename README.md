@@ -7,5 +7,5 @@ The expected output will be 60382.5. This is the output which you will see
 
 The same applies for the speed.js file and the student.js file.
 
-
+# Author: Christopher Ngili
 
